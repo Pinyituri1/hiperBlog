@@ -22,6 +22,10 @@ body{
     margin: 0 auto;
 }
 
+header {
+    color: blueviolet;
+    background-color: blue;
+}
 
 #cabecera{
     background-color: burlywood;
