@@ -7,10 +7,11 @@ body{
     padding: 0;
 }
 
-footer {
+#footer {
     text-align: center;
     color: chartreuse;
-    padding: 0.5 rem;
+    padding: 5;
+    background-color: #333;
 }
 
 #container{
