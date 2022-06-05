@@ -7,6 +7,12 @@ body{
     padding: 0;
 }
 
+footer {
+    text-align: center;
+    color: chartreuse;
+    padding: 0.5 rem;
+}
+
 #container{
     width: 70%;
     padding: 1em;
