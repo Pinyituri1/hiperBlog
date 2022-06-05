@@ -21,6 +21,10 @@ footer {
     margin: 0 auto;
 }
 
+header {
+    color: blueviolet;
+}
+
 #cabecera{
     background-color: burlywood;
     box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.5);
